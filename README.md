@@ -1,2 +1,2 @@
 # processing_with_tensorflow
-using_pandas_and_tensorflow
+Demonstration of using Pandas and Tensorflow to process some data
